@@ -10,6 +10,7 @@ Interested in digital health, computational and digital pathology, medical image
 
 | Project | Description |
 |---------|-------------|
+| [pathology-report-assistant](https://github.com/solfloreslab/pathology-report-assistant) | AI-powered pathology report assistant — structured forms (CAP/ICCR protocols), real-time clinical validation, and AI review. [Live demo](https://pathology-report-assistant.pages.dev). |
 | [clinical-doc-router](https://github.com/solfloreslab/clinical-doc-router) | n8n workflow for clinical document classification and routing — LLM-based categorization with deterministic urgency rules, structured data extraction. Fully on-premise. |
 | [glioma-methylation-clustering](https://github.com/solfloreslab/glioma-methylation-clustering) | Unsupervised ML on brain tumors — DNA methylation clustering with survival analysis (TCGA-LGG). Includes clinical coding impact analysis (ICD-O). |
 | [heart-disease-ml-analysis](https://github.com/solfloreslab/heart-disease-ml-analysis) | Supervised ML for cardiovascular risk prediction — 4 models compared, Logistic Regression achieves 94.6% ROC-AUC. |
@@ -19,10 +20,10 @@ Interested in digital health, computational and digital pathology, medical image
 
 **Machine Learning:** Python · scikit-learn · pandas · NumPy · matplotlib · seaborn · lifelines
 
-**Infrastructure:** Docker · n8n · PostgreSQL · Ollama · Git
+**Infrastructure:** Docker · n8n · PostgreSQL · Ollama · Cloudflare Workers · Git
 
-**AI / NLP:** Local LLM inference · Speech-to-Text · Text-to-Speech · Workflow automation
+**AI / NLP:** Local LLM inference · OpenRouter · Speech-to-Text · Text-to-Speech · Workflow automation
 
-**Web:** React · Vite · Tailwind CSS · Node.js · HTML · CSS · JavaScript · GitHub Pages
+**Web:** React · TypeScript · Vite · Tailwind CSS · Node.js · HTML · CSS · JavaScript · GitHub Pages · Cloudflare Pages
 
 **Other:** SQL · Power BI · VS Code
