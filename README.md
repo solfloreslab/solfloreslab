@@ -14,11 +14,12 @@ Interested in digital health, computational and digital pathology, medical image
 | [clinical-doc-router](https://github.com/solfloreslab/clinical-doc-router) | n8n workflow for clinical document classification and routing — LLM-based categorization with deterministic urgency rules, structured data extraction. Fully on-premise. |
 | [glioma-methylation-clustering](https://github.com/solfloreslab/glioma-methylation-clustering) | Unsupervised ML on brain tumors — DNA methylation clustering with survival analysis (TCGA-LGG). Includes clinical coding impact analysis (ICD-O). |
 | [heart-disease-ml-analysis](https://github.com/solfloreslab/heart-disease-ml-analysis) | Supervised ML for cardiovascular risk prediction — 4 models compared, Logistic Regression achieves 94.6% ROC-AUC. |
+| [medical-image-segmentation](https://github.com/solfloreslab/medical-image-segmentation) | Classical CV pipeline on pediatric chest X-rays (PneumoniaMNIST) — Otsu, Sobel/Canny, Watershed segmentation with CLAHE preprocessing. |
 | [clinical-documentation-guide](https://github.com/solfloreslab/clinical-documentation-guide) | Educational web app on clinical documentation standards — responsive, dark mode, offline-capable. [Live site](https://solfloreslab.github.io/clinical-documentation-guide). |
 
 ### Technologies & Tools
 
-**Machine Learning:** Python · scikit-learn · pandas · NumPy · matplotlib · seaborn · lifelines
+**Machine Learning:** Python · scikit-learn · pandas · NumPy · matplotlib · seaborn · lifelines · OpenCV
 
 **Infrastructure:** Docker · n8n · PostgreSQL · Ollama · Cloudflare Workers · Git
 
