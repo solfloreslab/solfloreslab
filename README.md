@@ -15,6 +15,7 @@ Interested in digital health, computational and digital pathology, medical image
 | [glioma-methylation-clustering](https://github.com/solfloreslab/glioma-methylation-clustering) | Unsupervised ML on brain tumors — DNA methylation clustering with survival analysis (TCGA-LGG). Includes clinical coding impact analysis (ICD-O). |
 | [heart-disease-ml-analysis](https://github.com/solfloreslab/heart-disease-ml-analysis) | Supervised ML for cardiovascular risk prediction — 4 models compared, Logistic Regression achieves 94.6% ROC-AUC. |
 | [medical-image-segmentation](https://github.com/solfloreslab/medical-image-segmentation) | Classical CV pipeline on pediatric chest X-rays (PneumoniaMNIST) — Otsu, Sobel/Canny, Watershed segmentation with CLAHE preprocessing. |
+| [pathopaste](https://github.com/solfloreslab/pathopaste) | Offline tool for pathologists — copy &amp; paste macroscopic descriptions and microscopic reports in one click. [Live site](https://solfloreslab.github.io/pathopaste/). |
 | [clinical-documentation-guide](https://github.com/solfloreslab/clinical-documentation-guide) | Educational web app on clinical documentation standards — responsive, dark mode, offline-capable. [Live site](https://solfloreslab.github.io/clinical-documentation-guide). |
 
 ### Technologies & Tools
